@@ -1,0 +1,160 @@
+[
+  {
+    "imgSrc": "img/burgers/firm.jpg",
+    "description": "Marbled beef cutlet, Gouda and Cheddar cheese, lightly salted cucumber, Red Wine ketchup. Served with French fries and cole slow 360/100/60. g",
+    "dishName": "FIRM BURGER",
+    "price": "9$"
+  },
+  {
+    "imgSrc": "img/burgers/blek.jpg",
+    "description": "Marbled beef cutlet, poached egg, Cheddar cheese, bacon, pickled cucumbers, arugula, onion, Blackberry ketchup. Served with French fries and cole slow 400/100/60. g",
+    "dishName": "BLACK BURGER",
+    "price": "12$"
+  },
+  {
+    "imgSrc": "img/burgers/trufel.jpg",
+    "description": "Marbled beef cutlet, cheddar, spinach, onion, egg, hollandaise sauce, truffle oil. Served with French fries and cole slow. 350/100/60 g",
+    "dishName": "TRUFEL BURGER",
+    "price": "29$"
+  },
+  {
+    "imgSrc": "img/burgers/karne.jpg",
+    "description": "Marbled beef cutlet, flat iron steak, spinach, mozzarella cheese, grape-cherry and mustard sauce with horseradish. Served with French fries and cole slow. 400/100/60 g",
+    "dishName": "BURGER CARNE ASADA",
+    "price": "15$"
+  },
+  {
+    "imgSrc": "img/burgers/trio.jpg",
+    "description": "Three mini burgers: With marbled beef cutlet, mozzarella cheese and sun-dried tomatoes. Cheese and bacon. Cheese and mushrooms with French fries.390/100 g",
+    "dishName": "SLIDER TRIO",
+    "price": "13$"
+  },
+  {
+    "imgSrc": "img/burgers/avocado.jpg",
+    "description": "Marbled beef cutlet, Mozzarella cheese, yoghurt-lime sauce, avocado on buckwheat bun. 300 g",
+    "dishName": "AVOCADO BURGER",
+    "price": "14$"
+  },
+
+  {
+    "imgSrc": "img/breakfasts/vafli.jpg",
+    "description": "with Chantilly cream, seasonal berries, banana pieces and condensed milk. 400 g",
+    "dishName": "BELGIAN WAFFLES",
+    "price": "6$"
+  },
+  {
+    "imgSrc": "img/breakfasts/syrniki.jpg",
+    "description": "with strawberry jam and sour cream. 210/50/40 g",
+    "dishName": "SYRNIKI",
+    "price": "5$"
+  },
+  {
+    "imgSrc": "img/breakfasts/omlet.jpg",
+    "description": "with red caviar and cream cheese. 350/50 g",
+    "dishName": "OPEN OMLETTE WITH SALMON",
+    "price": "9$"
+  },
+  {
+    "imgSrc": "img/breakfasts/belkOmlet.jpg",
+    "description": "with avocado. 300/50 g",
+    "dishName": "PROTEIN OMLETTE ",
+    "price": "9$"
+  },
+  {
+    "imgSrc": "img/breakfasts/fermOmlet.jpg",
+    "description": "with bakon cherry and cheese. 300/50 g",
+    "dishName": "FARMER'S OMLETTE ",
+    "price": "9$"
+  },
+  {
+    "imgSrc": "img/breakfasts/sKrabom.jpg",
+    "description": "poached egg on crab cake with spinach, toasted toast and hollandaise sauce. 250 g ",
+    "dishName": "BREAKFAST WITH CRAB",
+    "price": "15$"
+  },
+  {
+    "imgSrc": "img/breakfasts/chempion.jpg",
+    "description": "with poached egg, salmon and avocado. 300 g",
+    "dishName": "CHAMPION'S BREAKFAST",
+    "price": "10$"
+  },
+  {
+    "imgSrc": "img/breakfasts/shakshuka.jpg",
+    "description": "With chicken, mozzarella, bell pepper, tomatoes, parsley, cilantro and yogurt. 300 g",
+    "dishName": "SHAKSHUKA",
+    "price": "9$"
+  },
+  {
+    "imgSrc": "img/breakfasts/yaica-benedikt-losos.jpg",
+    "description": "hollandaise sauce with mixed salad 355. g",
+    "dishName": "EGGS BENEDICT WITH SALMON",
+    "price": "11$"
+  },
+  {
+    "imgSrc": "img/breakfasts/yaica-benedikt-parma.jpg",
+    "description": "hollandaise sauce with mixed salad. 270 g",
+    "dishName": "EGGS BENEDICT WITH PARMS HAM",
+    "price": "8$"
+  },
+  {
+    "imgSrc": "img/breakfasts/pashot.jpg",
+    "description": "On rye bread with guacamole and cream cheese. 250 g",
+    "dishName": "PASHOT EGGS",
+    "price": "5$"
+  },
+  {
+    "imgSrc": "img/breakfasts/yaica-benedikt-parma.jpg",
+    "description": "On rye bread with guacamole and cream cheese. 300 g",
+    "dishName": "EGGS PASHOT WITH SALMON",
+    "price": "7$"
+  },
+
+  {
+    "imgSrc": "img/drinks/limonad1.jpg",
+    "description": "500 ml",
+    "dishName": "LEMONADE TANDARIN-STRAWBERRY",
+    "price": "5$"
+  },
+  {
+    "imgSrc": "img/drinks/limonad2.jpg",
+    "description": "500 ml",
+    "dishName": "LEMONADE WITH PINE CONES",
+    "price": "5$"
+  },
+  {
+    "imgSrc": "img/drinks/limonad3.jpg",
+    "description": "500 ml",
+    "dishName": "LEMONADE CITRUS-MINT",
+    "price": "5$"
+  },
+  {
+    "imgSrc": "img/drinks/kola.jpg",
+    "description": "Soft drink, 330 ml",
+    "dishName": "COCA COLA",
+    "price": "2$"
+  },
+  {
+    "imgSrc": "img/drinks/7up.jpg",
+    "description": "Soft drink, 330 ml",
+    "dishName": "7UP",
+    "price": "2$"
+  },
+  {
+    "imgSrc": "img/drinks/mirinda.jpg",
+    "description": "Soft drink, 330 ml",
+    "dishName": "MIRINDA",
+    "price": "2$"
+  },
+  {
+    "imgSrc": "img/drinks/tonik.jpg",
+    "description": "Soft drink, 330 ml",
+    "dishName": "TONIC",
+    "price": "2$"
+  },
+  {
+    "imgSrc": "img/drinks/evervess.jpg",
+    "description": "Soft drink, 330 ml",
+    "dishName": "GINGER EL",
+    "price": "2$"
+  }
+]
